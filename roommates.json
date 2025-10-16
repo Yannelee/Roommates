@@ -3,37 +3,19 @@
     {
       "id": "7b6ffc",
       "nombre": "Kamil Kurtz",
-      "debe": 6500,
-      "recibe": 12833.333333333334
+      "debe": 4000,
+      "recibe": 4500
     },
     {
       "id": "eabe39",
       "nombre": "Lias Hauglid",
-      "debe": 8666.666666666666,
+      "debe": 4500,
       "recibe": 4000
     },
     {
       "id": "3e7568",
       "nombre": "Marion Payne",
-      "debe": 1666.6666666666667,
-      "recibe": 7500
-    },
-    {
-      "id": "de5a37",
-      "nombre": "Milica Vuksanović",
-      "debe": 4166.666666666667,
-      "recibe": 0
-    },
-    {
-      "id": "a4ed0e",
-      "nombre": "Marcos Jiménez",
-      "debe": 1666.6666666666667,
-      "recibe": 0
-    },
-    {
-      "id": "b342f5",
-      "nombre": "Wallace James",
-      "debe": 1666.6666666666667,
+      "debe": 0,
       "recibe": 0
     }
   ]
