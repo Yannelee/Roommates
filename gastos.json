@@ -11,18 +11,6 @@
       "roommate": "Lias Hauglid",
       "descripcion": "Articulos de limpieza",
       "monto": 8000
-    },
-    {
-      "id": "c4102d",
-      "roommate": "Marion Payne",
-      "descripcion": "Articulos de limpieza",
-      "monto": 10000
-    },
-    {
-      "id": "8b4ecf",
-      "roommate": "Kamil Kurtz",
-      "descripcion": "Articulos de limpieza",
-      "monto": 10000
     }
   ]
 }
